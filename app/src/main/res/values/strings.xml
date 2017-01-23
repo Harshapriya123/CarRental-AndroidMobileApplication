@@ -1,0 +1,18 @@
+<resources>
+    <string-array name="array_cars">
+        <item>Chevrolet</item>
+        <item>Chrysler</item>
+        <item>Dodge</item>
+        <item>Ford</item>
+        <item>GMC</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Kia</item>
+        <item>Mazda</item>
+        <item>Nissan</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+    </string-array>
+    <string name="spinner_prompt">Select a Car Model</string>
+
+</resources>
